@@ -37,3 +37,14 @@ Kazakhstan and CIS markets, with focus on B2B and B2G procurement processes.
 ## Company
 
 Developed by **BAi Core**.
+## Product link
+
+The current live version of TenderCRM is available here:
+
+**TenderCRM:** https://www.tendercrm.kz
+
+## Repository status
+
+This repository is prepared as a public product and documentation page for TenderCRM.
+
+The source code is currently pending formal transfer from the development side and will be added after the technical handover is completed.
